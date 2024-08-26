@@ -14,3 +14,7 @@ This repository contains code to extract multiple choice questions from Dutch hi
 This code could be used to extract and process data from [Examenblad.nl](https://www.examenblad.nl), as published on [alleexamens.nl](alleexamens.nl). The rights of these exams belong to the State of The Netherlands. Please refer to their [copyright statement](https://www.examenblad.nl/over-examenblad/copyright) for more information.
 
 **Note**: The question filtering part should be improved before using these questions directly: e.g. adding more keywords that refer to outside sources and length filtering to avoid concatenated questions.
+
+### Dataset
+
+Find the dataset on [Huggingface](https://huggingface.co/datasets/jjzha/dutch-central-exam-mcq).
